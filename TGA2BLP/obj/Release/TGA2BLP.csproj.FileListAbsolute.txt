@@ -1,0 +1,6 @@
+c:\users\steven-pc\documents\visual studio 2015\Projects\TGA2BLP\TGA2BLP\bin\Release\TGA2BLP.exe.config
+c:\users\steven-pc\documents\visual studio 2015\Projects\TGA2BLP\TGA2BLP\bin\Release\TGA2BLP.exe
+c:\users\steven-pc\documents\visual studio 2015\Projects\TGA2BLP\TGA2BLP\bin\Release\TGA2BLP.pdb
+c:\users\steven-pc\documents\visual studio 2015\Projects\TGA2BLP\TGA2BLP\obj\Release\TGA2BLP.csprojResolveAssemblyReference.cache
+c:\users\steven-pc\documents\visual studio 2015\Projects\TGA2BLP\TGA2BLP\obj\Release\TGA2BLP.exe
+c:\users\steven-pc\documents\visual studio 2015\Projects\TGA2BLP\TGA2BLP\obj\Release\TGA2BLP.pdb
