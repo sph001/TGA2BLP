@@ -21,4 +21,4 @@ wait for it to convert the files. (may take a while depending on the number of f
 
 **this is a temporary fix** to the addon issues, please don't expect it to work forever and hopefully blizzard fixes tga loading so that this is not needed.
 
-*if you are worried about security** you can download TGA2BLP from the link above and replace the one provided.
+*if you are worried about security** you can download BLP2PNG from the link above and replace the one provided.
