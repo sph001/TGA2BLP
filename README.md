@@ -2,7 +2,9 @@
 mass converter for TGA files to BLP files. converts every .TGA file in the directory and subdirectories.
 
 firstly, I did next to no work on this. all credit goes to: 
+
 David polomis for the TargaImage class: http://www.codeproject.com/Articles/31702/NET-Targa-Image-Reader
+
 Mundocani for creating BLP2PNG:http://www.wowinterface.com/downloads/info6127-BLP2PNG.html
 
 **HOW TO USE:**
